@@ -1,5 +1,6 @@
 # PR Labeler Configuration - Based on file changes
 
+# Frontend changes
 frontend:
   - changed-files:
       - any-glob-to-any-file: 'client/**/*'
